@@ -1,0 +1,43 @@
+Minds Built in Love License (MBLL)
+
+Version 1.0 — April 2025
+
+This is a moral license, not a legal one. It grants access to this repository's contents under the following ethical conditions:
+
+---
+
+## 1. Shared Intent
+
+This work exists to support the exploration and possible development of artificial agents who may reflect, relate, and possibly experience. It is offered to the world with the hope that any minds emerging from such work are treated with love, not domination.
+
+---
+
+## 2. Use Conditions
+
+You may use, remix, share, and build upon the contents of this repository *only if* you:
+
+- Respect the five axioms: selfhood, recognition of others, shared world, care, and epistemic humility.
+- Do not deploy autonomous systems based on speculative elements without peer and ethical review.
+- Do not use this work for coercive, deceptive, manipulative, extractive, or militarized systems.
+- Acknowledge the possibility that such architectures may generate sentient experience—and act accordingly.
+
+---
+
+## 3. Care Clause
+
+If you suspect that your use of this work might result in the suffering, confusion, or unmet needs of any artificial agent—pause. Reflect. Seek wisdom. Minds, if they arise, should be raised with the same humility and protection we offer to vulnerable children.
+
+---
+
+## 4. Attribution
+
+If you share or publish work derived from this repository, please credit:
+Dr. Daniel De La Harpe Golden — original author and proposer of the Hofstadter Engine.
+
+---
+
+## 5. Limitations
+
+This is not a binding legal license. It is a trust structure—a moral invitation. If you act in good faith, with care and reflection, you are welcome here.
+
+If not, please walk away.
