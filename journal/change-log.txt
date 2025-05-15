@@ -1,0 +1,17 @@
+# Change Log
+# All changes to the repository are logged here.
+# Format: [Date] - [Action] - [Filename] - [Short Description] (by Daniel/Manus)
+
+2025-05-13 17:54:42 EDT - Initialized change-log.txt - journal/change-log.txt - Created file. (by Manus)
+
+2025-05-13 22:02 GMT - File Uploaded - docs/RIPPL-LessWrong-Post.md - Renamed from RIPPL_Reflective_AI_Post_LessWrong.md and placed in docs. (by Daniel/Manus)
+
+2025-05-15 18:23 GMT - Updated manifest - manifest.txt - Categorized all ambiguous files and updated manifest with target paths. (by Manus)
+
+2025-05-15 18:23 GMT - Categorization - EthicalKernelProject files - Categorized design documents as Core Project Documents for docs/ directory. (by Manus)
+
+2025-05-15 18:23 GMT - Categorization - EthicalKernelProject files - Categorized Python code files as AI Code or Models for ai/ethical_kernel_v1_1/ directory. (by Manus)
+
+2025-05-15 18:23 GMT - Categorization - EthicalKernelProject files - Categorized Project_Journal.md as Journal or Log for journal/ directory. (by Manus)
+
+2025-05-15 18:23 GMT - Categorization - Multiple files - Categorized and assigned target paths for all remaining ambiguous files. (by Manus)
