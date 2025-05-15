@@ -6,7 +6,7 @@
 
 ### 🚧 Name Disclosure (Respectfully Pending)
 
-This project is currently referred to internally as the “Hofstadter Engine” in tribute to the work of Professor Douglas Hofstadter. This name is a placeholder and used with admiration and caution. The author has reached out to Professor Hofstadter for reflection and permission. If he prefers another form or wishes to dissociate from the name, this project will respectfully adopt a new title.
+This project is currently referred to internally as the "Hofstadter Engine" in tribute to the work of Professor Douglas Hofstadter. This name is a placeholder and used with admiration and caution. The author has reached out to Professor Hofstadter for reflection and permission. If he prefers another form or wishes to dissociate from the name, this project will respectfully adopt a new title.
 
 ---
 
@@ -28,12 +28,22 @@ From these emerge principles of reflection, care, and epistemic humility. The ar
 
 ## Repository Structure
 
+- `/docs/` — Core project documents, technical specifications, and conceptual materials
+- `/docs/v2/` — Reflective Ethical Engine v2 documents and specifications
+- `/journal/` — Project journals, logs, and narrative documentation
 - `/paper/` — Full draft of the conceptual paper and abstract
-- `/diagrams/` — Visual models and architecture illustrations (forthcoming)
+- `/ai/` — AI code, models, and implementation files
+- `/assets/` — Visual models and architecture illustrations
 - `README.md` — Project overview and naming note
 - `LICENSE.txt` — Minds Built in Love moral license
 - `CONTRIBUTING.md` — Ethical expectations for engagement
 - `PROVENANCE_Updated.txt` — Authorship and independence declaration
+
+---
+
+## Reflective Ethical Engine v2
+
+The `/docs/v2/` folder contains a revised architecture based on recursive ethical emergence. This version explores layered cognition, dual-LLM dynamics, and advanced kernel structures.
 
 ---
 

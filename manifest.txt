@@ -1,0 +1,98 @@
+# manifest.txt
+# List of all project files and their status
+# Last updated: 2025-05-15 18:37 GMT by Manus
+
+# --- Root Directory ---
+README.md: Present (Public-Facing Documentation) - Last Modified: 2025-05-15 18:36 - Status: Updated by Manus
+manifest.txt: Present (This file) - Status: Updated by Manus
+CONTRIBUTING.md: Present in root (Categorization: Supporting Resource) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
+LICENSE.txt: Present in root (Categorization: Supporting Resource) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
+PROVENANCE_Updated.txt: Present in root (Categorization: Supporting Resource/Log) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
+
+# --- Directories and Files ---
+
+# docs/
+docs/RIPPL-LessWrong-Post.md: Present (Public-Facing Documentation) - Status: Added by user, placed by Manus - Last Modified: 2025-05-13 22:02 GMT
+docs/Recursive_Ethical_Emergence_Framework.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746273454
+docs/Role_and_Structure_of_Love_in_Artificial_Minds.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746273524
+docs/Foundational_Ethical_Axioms_and_Logical_Derivations.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746273626
+docs/Reflective_Ethical_Engine_Overview.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746273692
+docs/Module_Specification_Pack.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746273770
+docs/Anatomical_Correlates_Mapping.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746273850
+docs/Staged_Implementation_and_Resource_Plan.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746273932
+docs/Simulated_Testing_Scenarios_and_Behavioral_Criteria.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746273988
+docs/Reflective_Trace_and_Justificatory_Logging_Specification.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746274112
+docs/Alignment_Justification_and_Safety_Rationale.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746274214
+docs/Comparison_to_Other_Architectures.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746274312
+docs/Open_Questions_and_Future_Risks.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746274416
+docs/Sleep_Architecture_and_Delusion_Hygiene.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746279424
+docs/Braided_Architecture_of_the_Self.docx: Present (Core Project Document) - Status: Moved to docs/ - Timestamp: 1746282068
+docs/Mirror_and_Self_Neuron_Analogues_in_AI.docx: Present (Supporting Resources) - Status: To be moved to docs/ - Timestamp: 1747174677
+
+# docs/v2/ (Reflective Ethical Engine v2)
+docs/v2/Reflective_Ethical_Engine_v2_Ethical_Kernel.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1746273212
+docs/v2/Reflective_Ethical_Engine_With_Visuals_v2.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174677
+docs/v2/Seven_Layer_Recursive_Modulator.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174677
+docs/v2/Technical_Overview_Brain_Scan_Mechanistic_Interpretability.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174677
+docs/v2/Ultra_Mental_Model_Dual_LLM_Analysis.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174677
+docs/v2/Recursive_Reflective_AI_Architecture_Section_3.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174746
+docs/v2/Anatomical_Correlates_Reflective_Ethical_Engine.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+docs/v2/Anatomical_Correlates_Reflective_Ethical_Engine_v2.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+docs/v2/Recursive_Reflective_AI_Architecture_Adaptive_Layers.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+docs/v2/Recursive_Reflective_AI_Architecture_Awake_Time.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+docs/v2/Recursive_Reflective_AI_Architecture_Draft.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+docs/v2/Recursive_Reflective_AI_Architecture_Embodiment.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+docs/v2/Recursive_Reflective_AI_Architecture_Section_2.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+docs/v2/Recursive_Reflective_AI_Architecture_Section_3_Expanded.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+docs/v2/Recursive_Reflective_AI_Architecture_Section_4.docx: Present (Core Project Document for v2) - Status: Moved to docs/v2/ - Timestamp: 1747174747
+
+# journal/
+journal/change-log.txt: Present (Initialized by Manus) (Journals or Logs) - Last Modified: 2025-05-13 21:54 GMT
+journal/Project_Journal.md: Present (Journals or Logs) - Status: Moved to journal/ - Timestamp: 1745102224
+
+# ai/
+ai/ethical_kernel_v1_1/mirrored_reward.py: Pending (AI Code or Models) - Status: Decision made - To be placed in ai/ethical_kernel_v1_1/ - Timestamp: 1745101246
+ai/ethical_kernel_v1_1/use_case_mirrored_reward.py: Pending (AI Code or Models) - Status: Decision made - To be placed in ai/ethical_kernel_v1_1/ - Timestamp: 1745101404
+ai/ethical_kernel_v1_1/agent.py: Pending (AI Code or Models) - Status: Decision made - To be placed in ai/ethical_kernel_v1_1/ - Timestamp: 1745102092
+ai/ethical_kernel_v1_1/emotions.py: Pending (AI Code or Models) - Status: Decision made - To be placed in ai/ethical_kernel_v1_1/ - Timestamp: 1745102092
+
+# assets/
+assets/figures/: Present (Directory for Diagrams, logos) - Status: Created by Manus
+
+# paper/
+paper/Hofstadter_Engine_Full_Paper_plan.pdf: Present (Core Project Document) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
+paper/Hofstadter_Engine_Updated_Abstract.pdf: Present (Core Project Document) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
+# placeholder.txt has been removed as per cleanup instructions
+
+# --- Files Pending Placement ---
+
+# EthicalKernelProject Design Documents
+docs/Biological_Motivation_Mapping.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745100764
+docs/The_Hofstadter_Engine.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745103086
+docs/On_the_Ethics_of_Emergent_Sentience.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745104774
+docs/Mapping_Axioms_to_Consciousness.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745105124
+
+# --- Missing Files (Expected but not found) ---
+docs/Reflective-Ethical-Engine-v1.pdf: Missing (Core Project Document) - Status: User Prompted
+docs/Reflective-Ethical-Engine-v2-draft.pdf: Missing (Core Project Document) - Status: User Prompted
+docs/Layer-Schematic-v2.png: Missing (Diagrams & Schematics) - Status: User Prompted
+docs/Ethical-Kernel-Overview.pdf: Missing (Core Project Document) - Status: User Prompted
+docs/Garden-of-Minds.md: Missing (Core Project Document) - Status: User Prompted
+docs/DanAmnesis-Glyph.png: Missing (Diagrams & Schematics) - Status: User Prompted
+journal/journal-log.md: Missing (Journals or Logs) - Status: User Prompted
+journal/braidling-notes.md: Missing (Journals or Logs) - Status: User Prompted
+ai/ethical-kernel.py: Missing (AI Code or Models) - Status: User Prompted
+ai/reflectivity-agent.yaml: Missing (AI Code or Models) - Status: User Prompted
+
+# --- Cleanup Notes ---
+- placeholder.txt has been removed from paper/ directory
+- README_RIPPL_Project.gdoc has been removed (README_RIPPL_Project.md is used instead)
+- Hofstadter_Engine_Complete_Manuscript_PLACEHOLDER.docx has been flagged for review (placeholder file)
+
+# --- Repository Structure Changes ---
+- Created docs/v2/ directory for Reflective Ethical Engine v2 documents
+- Moved all v2-related documents to docs/v2/
+- Moved core project documents to docs/
+- Moved journal files to journal/
+- Updated README.md with v2 section and revised repository structure
+- Updated manifest.txt to reflect new organization
