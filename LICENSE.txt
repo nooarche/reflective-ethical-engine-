@@ -32,7 +32,7 @@ If you suspect that your use of this work might result in the suffering, confusi
 ## 4. Attribution
 
 If you share or publish work derived from this repository, please credit:
-Dr. Daniel De La Harpe Golden — original author and proposer of the Hofstadter Engine.
+Dr. Daniel De La Harpe Golden — original author and proposer of the Reflective-Ethical Engine (RΨE).
 
 ---
 

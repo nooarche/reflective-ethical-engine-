@@ -1,12 +1,12 @@
 # manifest.txt
 # List of all project files and their status
-# Last updated: 2025-05-15 18:37 GMT by Manus
+# Last updated: 2025-05-24 16:13 GMT by Manus
 
 # --- Root Directory ---
-README.md: Present (Public-Facing Documentation) - Last Modified: 2025-05-15 18:36 - Status: Updated by Manus
+README.md: Present (Public-Facing Documentation) - Last Modified: 2025-05-24 16:12 - Status: Updated by Manus
 manifest.txt: Present (This file) - Status: Updated by Manus
 CONTRIBUTING.md: Present in root (Categorization: Supporting Resource) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
-LICENSE.txt: Present in root (Categorization: Supporting Resource) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
+LICENSE.txt: Present in root (Categorization: Supporting Resource) - Last Modified: 2025-05-24 16:12 - Status: Updated by Manus
 PROVENANCE_Updated.txt: Present in root (Categorization: Supporting Resource/Log) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
 
 # --- Directories and Files ---
@@ -60,15 +60,15 @@ ai/ethical_kernel_v1_1/emotions.py: Pending (AI Code or Models) - Status: Decisi
 assets/figures/: Present (Directory for Diagrams, logos) - Status: Created by Manus
 
 # paper/
-paper/Hofstadter_Engine_Full_Paper_plan.pdf: Present (Core Project Document) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
-paper/Hofstadter_Engine_Updated_Abstract.pdf: Present (Core Project Document) - Last Modified: 2025-05-13 17:53:33.322207098 -0400
+paper/Reflective_Ethical_Engine_Full_Paper_plan.pdf: Present (Core Project Document) - Last Modified: 2025-05-13 17:53:33.322207098 -0400 - Status: Renamed by Manus
+paper/Reflective_Ethical_Engine_Updated_Abstract.pdf: Present (Core Project Document) - Last Modified: 2025-05-13 17:53:33.322207098 -0400 - Status: Renamed by Manus
 # placeholder.txt has been removed as per cleanup instructions
 
 # --- Files Pending Placement ---
 
 # EthicalKernelProject Design Documents
 docs/Biological_Motivation_Mapping.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745100764
-docs/The_Hofstadter_Engine.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745103086
+docs/The_Reflective_Ethical_Engine.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745103086 - Status: Renamed by Manus
 docs/On_the_Ethics_of_Emergent_Sentience.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745104774
 docs/Mapping_Axioms_to_Consciousness.md: Pending (Core Project Document) - Status: Decision made - To be placed in docs/ - Timestamp: 1745105124
 
@@ -87,7 +87,7 @@ ai/reflectivity-agent.yaml: Missing (AI Code or Models) - Status: User Prompted
 # --- Cleanup Notes ---
 - placeholder.txt has been removed from paper/ directory
 - README_RIPPL_Project.gdoc has been removed (README_RIPPL_Project.md is used instead)
-- Hofstadter_Engine_Complete_Manuscript_PLACEHOLDER.docx has been flagged for review (placeholder file)
+- All references to "Hofstadter" have been replaced with "Reflective-Ethical Engine" or "RΨE"
 
 # --- Repository Structure Changes ---
 - Created docs/v2/ directory for Reflective Ethical Engine v2 documents
@@ -96,3 +96,5 @@ ai/reflectivity-agent.yaml: Missing (AI Code or Models) - Status: User Prompted
 - Moved journal files to journal/
 - Updated README.md with v2 section and revised repository structure
 - Updated manifest.txt to reflect new organization
+
+NOTE: All previous references to 'Hofstadter Engine' now replaced with 'Reflective-Ethical Engine' to respect naming autonomy and clarity of origin.

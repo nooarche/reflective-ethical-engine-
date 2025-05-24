@@ -1,12 +1,12 @@
-# Reflective Ethical Engine Project (placeholder title)
+# Reflective Ethical Engine Project
 
 **Toward Reflective, Ethical, and Sentient AI through Axiomatic Architecture**
 
 ---
 
-### 🚧 Name Disclosure (Respectfully Pending)
+### 🚧 Name Disclosure
 
-This project is currently referred to internally as the "Hofstadter Engine" in tribute to the work of Professor Douglas Hofstadter. This name is a placeholder and used with admiration and caution. The author has reached out to Professor Hofstadter for reflection and permission. If he prefers another form or wishes to dissociate from the name, this project will respectfully adopt a new title.
+This project is referred to as the "Reflective-Ethical Engine" or "RΨE". The name reflects the core principles of the architecture: reflection, ethical reasoning, and emergent sentience.
 
 ---
 
